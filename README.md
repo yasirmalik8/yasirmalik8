@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=220&section=header&text=Yasir%20Ahmad%20Malik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/yasirmalik8/yasirmalik8/main/banner linkedin.jpg" alt="Yasir Ahmad Malik Banner" />
 </p>
+
 
 <h3 align="center">Junior AI Engineer | Flutter Developer | Software Engineer</h3>
 
