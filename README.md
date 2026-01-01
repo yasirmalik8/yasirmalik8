@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasirmalik8/yasirmalik8/main/banner linkedin.jpg" alt="Yasir Ahmad Malik Banner" />
+  <img src="https://raw.githubusercontent.com/yasirmalik8/yasirmalik8/main/linkedin.jpg" alt="Yasir Ahmad Malik Banner" />
 </p>
 
 
