@@ -86,9 +86,10 @@ Facial emotion recognition from images & live video
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirmalik8&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirmalik8&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirmalik8&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirmalik8&layout=compact&langs_count=8" height="165"/>
 </p>
+
 
 ---
 
