@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/yasirmalik8/yasirmalik8/main/linkedin.jpg" alt="Yasir Ahmad Malik Banner" />
 </p>
 
-
 <h3 align="center">Junior AI Engineer | Flutter Developer | Software Engineer</h3>
 
 <p align="center">
@@ -75,10 +74,12 @@ Facial emotion recognition from images & live video
 
 ## 🎓 Certifications
 
-- 🧠 **Machine Learning Algorithm** – Coursera  
-- 🐍 **Python for Data Science** – IBM  
-- 🤖 **AI & Data Science Program** – Govt of Pakistan  
-- 🔐 **Cyber Security** – Coursera  
+- 🧠 **[Machine Learning Algorithm (Coursera)](https://coursera.org/verify/HVSHNZZKW3LK)**
+- 🐍 **[Python for Data Science (IBM)](https://www.credly.com/go/MOhFbp96)**
+- 💻 **[Python for Data Science, AI & Development (Coursera)](https://coursera.org/verify/LW58WLT6ANBP)**
+- 📈 **[Exploratory Data Analysis for Machine Learning (Coursera)](https://coursera.org/verify/RBLYN2SBXQY4)**
+- 🔐 **[Cyber Security (Coursera)](https://coursera.org/verify/JVRVMT279TQR)**
+- 🤖 **Machine Learning, AI & Data Science (Pakistan Govt – Hunarmand Kamyab Jawan Program)**
 
 ---
 
